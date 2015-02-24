@@ -18,7 +18,7 @@ footer:
   copyright: Jordan Lamotte
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Jordan Lamotte
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -39,7 +39,7 @@ address:
 #  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Jordan Lamotte is a fourth year student at Champlain College in Burlington, Vermont studying Computer Networking & Information Security, Cyber Security, and Computer & Digital Forensics with a professional background in computer repair and support, learning management system migration and support, and user training.'
+credits: '...is a fourth year student at Champlain College in Burlington, Vermont studying Computer Networking & Information Security, Cyber Security, and Computer & Digital Forensics with a professional background in computer repair and support, learning management system migration and support, and user training.'
 
 # Build settings
 markdown: kramdown
