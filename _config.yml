@@ -2,7 +2,7 @@
 title: Jordan Lamotte
 email: jordan@jordanlamotte.net
 url: http://jordanlamotte.net
-description: "Jordan Lamotte is a fourth year student at Champlain College in Burlington, Vermont studying Computer Networking & Information Security, Cyber Security, and Computer & Digital Forensics with a professional background in computer repair and support, learning management system migration and support, and user training."
+description: "Jordan Lamotte is a recent graduate of Champlain College with a B.S. in Computer Networking & Information Security with a professional background in computer repair and support, learning management system migration and support, and user training."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -39,7 +39,7 @@ address:
 #  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: '...is a fourth year student at Champlain College in Burlington, Vermont studying Computer Networking & Information Security, Cyber Security, and Computer & Digital Forensics with a professional background in computer repair and support, learning management system migration and support, and user training.'
+credits: '...is a recent graduate of Champlain College with a B.S. in Computer Networking & Information Security with a professional background in computer repair and support, learning management system migration and support, and user training.'
 
 # Build settings
 markdown: kramdown
